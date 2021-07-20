@@ -1,0 +1,11 @@
+.header{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 350px;}
+.column{}
+.col1{height: 50vh;}
+.col2{height: 50vh;}
+h1{margin: 0px; padding: 0px; color: rgb(255, 255, 255);}
+body{margin: 0px; padding: 0px;}
